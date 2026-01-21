@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 Learning: [leetcode](https://leetcode.cn/leetbook/) welcome~ 
 - 💬 WeChat : wxhddjd73urrnfjf8fje
 - 📧 E-Mail : liuhangbiaoo@gmail.com
-- 📁 Home : [道心博客](https://www.liuhangbiao.com/)
+- 📁 Home : [道心博客](https://blog.idao.top/)
 
 
 **最近一年汇总** ✨✨✨
